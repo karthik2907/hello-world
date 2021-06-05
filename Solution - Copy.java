@@ -3,8 +3,7 @@ import java.math.*;
 import java.text.*;
 import java.util.*;
 import java.util.regex.*;
-//hello-world-inages
-//wlcome to my it lab 
+
 public class Solution {
     static int find_nth_min(int b[],int c)
     {
